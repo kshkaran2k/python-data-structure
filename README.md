@@ -18,6 +18,6 @@ These are the objects which can't be changed once they are created.
 ## Mutable objects
 
 These are the objects which can be changed once they are created.
-- List
+- [List](list.md)
 - Dict
 - Set

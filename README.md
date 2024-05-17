@@ -19,5 +19,5 @@ These are the objects which can't be changed once they are created.
 
 These are the objects which can be changed once they are created.
 - [List](list.md)
-- Dict
+- [Dictionary](dictionary.md)
 - Set
